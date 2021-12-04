@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on iOS App Development with Swift and SwiftUI
 - 💬 Ask me about Swift, SwiftUI and iOS App Development
-- 📫 How to reach me  : nsivaram248@gmail.com
+- 📫 Reach me @ nsivaram248@gmail.com
 - 🏹 Don't Change. Must Evolve.
