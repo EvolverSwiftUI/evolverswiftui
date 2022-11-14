@@ -1,4 +1,4 @@
-### What's up everyone! 🥳 I'm Siva 👋
+### What's up everyone! 🥳 I'm Shiva 👋
 
 <!--
 **EvolverSwiftUI/evolverswiftui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
